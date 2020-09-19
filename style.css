@@ -1,0 +1,14 @@
+/* CSS file */
+
+#aboutme {
+    background-color:red;
+    max-height: 200px;
+    width: auto;
+    margin-right: 10px;
+    float: left;
+}
+
+p {
+    background-color: aqua;
+    padding-left: 10px;
+}
