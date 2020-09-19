@@ -1,14 +1,29 @@
 /* CSS file */
 
+.container {
+    background-color: grey;
+    margin: 10px;
+}
+
+.backdrop {
+    background-color: gray;
+    padding: 10px;
+}
+
 #aboutme {
     background-color:red;
     max-height: 200px;
     width: auto;
     margin-right: 10px;
     float: left;
+    padding-left: 10px;
 }
 
 p {
     background-color: aqua;
-    padding-left: 10px;
+}
+
+#portfolioimg {
+    max-width: 250px;
+    margin-bottom: 15px;
 }
