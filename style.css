@@ -1,8 +1,8 @@
 /* CSS file */
 
-.container {
-    background-color: grey;
-    margin: 10px;
+body{
+    background-image: url(assets/background.jpg);
+    margin: 30px;
 }
 
 .backdrop {
@@ -23,7 +23,20 @@ p {
     background-color: aqua;
 }
 
-#portfolioimg {
-    max-width: 250px;
-    margin-bottom: 15px;
+h1 {
+    margin: 10px;
+}
+
+.my-container {
+    background-color: gray;
+    padding-bottom: 10px;
+}
+
+.my-row { 
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.my-col {
+    border: 1px solid grey;
 }
