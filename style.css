@@ -1,43 +1,54 @@
 /* CSS file */
-
+/* background attributes */
 body{
     background-image: url(assets/background.jpg);
     margin: 30px;
 }
 
-.backdrop {
-    background-color: gray;
-    padding: 10px;
-}
-
+/* about me page image att */
 #aboutme {
-    background-color:red;
     max-height: 200px;
     width: auto;
     margin-right: 10px;
     float: left;
-    padding-left: 10px;
 }
 
+/* bio background color */
 p {
-    background-color: aqua;
+    background-color: lightgrey;
+    margin: 10px lightgrey;
 }
 
+/* page title att */
 h1 {
     margin: 10px;
     text-align: center;
 }
 
+/* secondary title att */
+h2 {
+    margin: 10px;
+    text-align: center;
+}
+
+/* container styling att */
 .my-container {
     background-color: gray;
     padding-bottom: 10px;
 }
 
+/* row styling att */
 .my-row { 
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
+/* column styling att */
 .my-col {
     border: 1px solid grey;
+}
+
+/* link background color */
+.linksList {
+    background-color: lightgrey;
 }
