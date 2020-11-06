@@ -14,7 +14,7 @@ body{
 }
 
 /* bio background color */
-p {
+.bio {
     background-color: lightgrey;
     margin: 10px lightgrey;
 }
@@ -46,6 +46,15 @@ h2 {
 /* column styling att */
 .my-col {
     border: 1px solid grey;
+}
+
+.app-col {
+    background-color: lightgrey;
+    padding: 10px;
+}
+
+.app-cont {
+    margin: 10px;
 }
 
 /* link background color */
